@@ -1,0 +1,19 @@
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+/home/tjcac02/.rbenv/versions/2.6.5/bin/ruby -I /home/tjcac02/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200331-87038-351ovr.rb extconf.rb
+creating Makefile
+
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20200331-87038-148pk63/byebug

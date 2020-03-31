@@ -1,0 +1,15 @@
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/home/tjcac02/.rbenv/versions/2.6.5/bin/ruby -I /home/tjcac02/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200331-87038-pwoewa.rb extconf.rb
+creating Makefile
+
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/tjcac02/odin_on_rails/my_first_rails_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20200331-87038-1insgzs/skiptrace/internal
